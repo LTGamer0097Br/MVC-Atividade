@@ -2,7 +2,6 @@ Esta é uma atividade feita no 3º semestre da Faculdade Tecnóloga FATEC Cotia,
 Nesse projeto está sendo utilizado as seguintes coisas:
 - NodeJs
 - Express
-- Sequelize
 - Body Parser
 - Handlebars
 - Modelo MVC
